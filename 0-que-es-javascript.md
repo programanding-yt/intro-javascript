@@ -11,11 +11,11 @@ Node.js y Deno, que permiten ejecutar JS fuera del navegador, utilizan el motor 
 ## ¿Para qué se utiliza JS?
 En el contexto del desarrollo de páginas web, específicamente del Frontend, (es decir, la parte visual, la interfaz, lo que ve el usuario), imaginemos este ejemplo:
 Queremos construir un robot. 
-- El 'esqueleto' se crea con HTML, de esta manera le damos estructura (brazos, tronco, piernas, extremidades)
+El 'esqueleto' se crea con HTML, de esta manera le damos estructura (brazos, tronco, piernas, extremidades)
 ![esqueleto](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/283cf1d0beb4d802d7ce81c7006841bd/large.jpg)
-- El aspecto se define con CSS (color, textura)
+El aspecto se define con CSS (color, textura)
 ![aspecto](https://www.mansworldindia.com/wp-content/uploads/2014/08/Bi-Centennial-Man.jpg)
-- El razonamiento del robot se crea con JS (interacciones con el entorno, cálculos matemáticos, lenguaje, reacciones)
+El razonamiento del robot se crea con JS (interacciones con el entorno, cálculos matemáticos, lenguaje, reacciones)
 ![razonamiento](https://media.giphy.com/media/sFTWiBKYYWKVa/giphy.gif)
 ## JavaScript y Java
 JavaScript y Java son dos lenguajes de programación totalmente distintos, no existe una relación entre ambos. 
