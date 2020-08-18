@@ -1,4 +1,4 @@
-# Qué es JavaScript
+# Qué es JavaScript - una muy breve introducción
 ## Definición simple
 JavaScript (JS) es un lenguaje de programación utilizado principalmente en páginas web, servidores y algunas bases de datos. 
 ## Dónde se ejecuta código JS
