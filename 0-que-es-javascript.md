@@ -25,8 +25,10 @@ JavaScript y Java son dos lenguajes de programación totalmente distintos, no ex
 "Java is to JavaScript what car is to carpet".- Chris Heilmann.
 "Java es a JavaScript lo que carro es a carpeta".
 ## ECMAScript
-La asociación [Ecma International](https://www.ecma-international.org/) se encarga de estandarizar JavaScript, es decir, de entregar un lenguaje de programación internacional, estandarizado, basado en JS. Este lenguaje de programación recibe el nombre de ECMAScript, y su especificación define una serie de requerimientos que permiten *implementar* ECMAScript. Esta especificación es la [ECMA-262](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
-Este documento no es una guía para aprender a programar ECMAScript, sino para implementar tus propios features, que cumplan con el estándar de ECMAScript.
+La asociación [Ecma International](https://www.ecma-international.org/) se encarga de estandarizar JavaScript, es decir, de entregar un lenguaje de programación internacional, estandarizado, basado en JS. Este lenguaje de programación recibe el nombre de ECMAScript, y su especificación define una serie de requerimientos que permiten *implementar* ECMAScript. Esta especificación es la [ECMA-262](https://www.ecma-international.org/publications/standards/Ecma-262.htm).
+
+Este documento no es una guía para aprender a programar en ECMAScript, sino para implementar tus propios features, que cumplan con el estándar de ECMAScript.
+
 Para conocer las diferentes versiones de ECMAScript, utiliza el siguiente [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources).
 ## Tu primer línea de código en JavaScript
 Para concluir este video con un ejemplo práctico, crearemos una simple alerta en el navegador.
