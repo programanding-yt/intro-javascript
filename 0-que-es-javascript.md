@@ -29,7 +29,7 @@ La asociación [Ecma International](https://www.ecma-international.org/) se enca
 
 Este documento no es una guía para aprender a programar en ECMAScript, sino para implementar tus propios features, que cumplan con el estándar de ECMAScript.
 
-Para conocer las diferentes versiones de ECMAScript, utiliza el siguiente [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources).
+Para conocer las versiones actuales y futuras de ECMAScript, utiliza el siguiente [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources).
 ## Tu primer línea de código en JavaScript
 Para concluir este video con un ejemplo práctico, crearemos una simple alerta en el navegador.
 Abre tu navegador favorito, y abre las Herramientas de Desarrollador. Algunas opciones:
